@@ -1,0 +1,10 @@
+from utils import cargar_y_limpiar
+
+df = cargar_y_limpiar()
+
+conteo = df['nombre'].value_counts()
+
+nombre_mas_frecuente = conteo.idxmax()
+cantidad = conteo.max()
+
+print(nombre_mas_frecuente, cantidad)
