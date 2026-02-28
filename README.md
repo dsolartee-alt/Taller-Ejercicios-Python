@@ -132,7 +132,7 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 07 | ¿Cuántos registros tienen la ciudad "Medellin" después de limpiar? | `14346` |
 | 08 | ¿Cuántas ciudades únicas existen después de normalizar? | `100` |
 | 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `11329` |
-| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `PENDIENTE` |
+| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `11343` |
 | 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `PENDIENTE` |
 | 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `PENDIENTE` |
 | 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `PENDIENTE` |
